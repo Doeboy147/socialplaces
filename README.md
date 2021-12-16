@@ -5,7 +5,7 @@
 -   Composer
 
 ## Topics covered
--  VueJs 3 (Router, Form Validation, Templates, REST API)
+-  VueJs 3 (Router, Form Validation, Templates, REST API, Basic Pagination)
 -  Larvel/PHP (OOP, MVC, Email Queue)
 
 ## Installation instructions
