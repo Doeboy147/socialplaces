@@ -86,6 +86,9 @@
           </div>
         </div>
       </form>
+      <div class="">
+          <a href="/login"> Admin Login</a> | <a href="/register"> Register</a>
+      </div>
     </div>
   </div>
 </template>
